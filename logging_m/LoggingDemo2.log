@@ -1,0 +1,5 @@
+05/17/2025 11:26:00 AM - LoggingDemo2 - DEBUG: debug message
+05/17/2025 11:26:00 AM - LoggingDemo2 - INFO: info message
+05/17/2025 11:26:00 AM - LoggingDemo2 - WARNING: warn message
+05/17/2025 11:26:00 AM - LoggingDemo2 - ERROR: error message
+05/17/2025 11:26:00 AM - LoggingDemo2 - CRITICAL: critical message
